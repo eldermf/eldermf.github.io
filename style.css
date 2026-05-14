@@ -249,7 +249,7 @@ button { cursor: pointer; font-family: inherit; }
 .hero-bg-grid { grid-column: 1 / -1; grid-row: 1; position: absolute; }
 
 .hero-content { grid-column: 1; }
-.hero-terminal { grid-column: 2; align-self: center; }
+.hero-terminal { grid-column: 2; align-self: center; justify-self: end; }
 
 .hero-tag {
   display: inline-flex;
@@ -332,7 +332,8 @@ button { cursor: pointer; font-family: inherit; }
   border-radius: var(--radius-lg);
   overflow: hidden;
   box-shadow: var(--shadow);
-  max-width: 420px;
+  width: 100%;
+  max-width: 440px;
   justify-self: end;
   font-family: 'JetBrains Mono', monospace;
 }

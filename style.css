@@ -19,7 +19,7 @@
   --ctp-subtext1:#b5bfe2;
   --ctp-text:    #c6d0f5;
   --ctp-blue:    #8caaee;
-  --ctp-frappe:  #ff8a65;  /* salmon accent */
+  --ctp-frappe:  #975f55;  /* salmon accent */
   --ctp-lavender:#babbf1;
   --ctp-sapphire:#85c1dc;
   --ctp-sky:     #99d1db;
@@ -62,8 +62,7 @@
   --text-muted:   #6b635a;
   --text-dim:     #8c8078;
   --accent:       #3a6fd8;
-  /* --accent2:      #b05040; */
-  --accent2:      #ff8a65;
+  --accent2:      #b05040;
   --accent3:      #6351b8;
 }
 
